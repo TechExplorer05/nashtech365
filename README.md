@@ -11,6 +11,6 @@ Hello! 👋 I'm Nash Saman, a passionate Cloud Engineer with over 18 years of ex
 ## 🛠 Skills
 
 - **Cloud Platforms**: AWS, Azure
-- **Monitoring**: Datadog
-- **Specialties**: Security, Network
+- **Monitoring**: Datadog, Dynatrace, AppDynamics, Alertsite, SCOM
+- **Specialties**: Security, Networking
 
