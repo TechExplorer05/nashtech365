@@ -1,5 +1,3 @@
----
-
 # Nash Saman
 
 Hello! 👋 I'm Nash Saman, a passionate Cloud Engineer with over 18 years of experience in the tech industry.
@@ -15,6 +13,4 @@ Hello! 👋 I'm Nash Saman, a passionate Cloud Engineer with over 18 years of ex
 - **Cloud Platforms**: AWS, Azure
 - **Monitoring**: Datadog
 - **Specialties**: Security, Network
-
----
 
